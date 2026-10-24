@@ -5,14 +5,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PPraneesh&theme=dark&hide_border=true&background=0A1118&ring=FF6B35&fire=FF6B35&currStreakLabel=FFD700" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=parsipratheek&theme=dark&hide_border=true&background=0A1118&ring=FF6B35&fire=FF6B35&currStreakLabel=FFD700" alt="Streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPraneesh&layout=donut&theme=tokyonight&hide_border=true&custom_title=Pratheek%27s%20Top%20Languages" alt="Top languages" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PPraneesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Pratheek%27s%20GitHub%20Stats" alt="Pratheek's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsipratheek&layout=donut&theme=tokyonight&hide_border=true&custom_title=Pratheek%27s%20Top%20Languages" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=parsipratheek&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Pratheek%27s%20GitHub%20Stats" alt="Pratheek's GitHub Stats" />
 </p>
-
 
 ---
 
@@ -22,16 +21,15 @@
 <tr>
 <td width="60%">
 
-👋 Hi, I’m Pratheek.
-💻 I code in C, C++, Java, and Python.
-🚀 I’m always building and improving my projects.
+👋 Hi, I'm Pratheek.<br>
+💻 I code in C, C++, Java, and Python.<br>
+🚀 I'm always building and improving my projects.<br>
 🌱 Learning something new every day.
 
 </td>
 <td width="40%" align="center">
 
-<!-- Replace the link below with your own GIF/image link -->
-<img src="https://raw.githubusercontent.com/PPraneesh/PPraneesh/main/banner.gif" width="100%" alt="Banner" />
+<img src="https://raw.githubusercontent.com/parsipratheek/parsipratheek/main/banner.gif" width="100%" alt="Banner" />
 
 </td>
 </tr>
@@ -62,6 +60,6 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/PPraneesh/Noventra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PPraneesh&repo=Noventra&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/PPraneesh/seepDB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PPraneesh&repo=seepDB&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/parsipratheek/Noventra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parsipratheek&repo=Noventra&theme=tokyonight&hide_border=true" alt="Noventra" /></a>
+  <a href="https://github.com/parsipratheek/seepDB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parsipratheek&repo=seepDB&theme=tokyonight&hide_border=true" alt="seepDB" /></a>
 </p>
