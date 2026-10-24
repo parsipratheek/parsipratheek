@@ -9,9 +9,10 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPraneesh&layout=donut&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PPraneesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPraneesh&layout=donut&theme=tokyonight&hide_border=true&custom_title=Pratheek%27s%20Top%20Languages" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PPraneesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Pratheek%27s%20GitHub%20Stats" alt="Pratheek's GitHub Stats" />
 </p>
+
 
 ---
 
